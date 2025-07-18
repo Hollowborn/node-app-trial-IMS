@@ -469,14 +469,14 @@ const options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "fpyet4"
+  version_hash: "1be54m"
 };
 async function get_hooks() {
   let handle;
   let handleFetch;
   let handleError;
   let init;
-  ({ handle, handleFetch, handleError, init } = await import('./chunks/hooks.server-CK-551md.js'));
+  ({ handle, handleFetch, handleError, init } = await import('./chunks/hooks.server-crrm3NyT.js'));
   let reroute;
   let transport;
   return {

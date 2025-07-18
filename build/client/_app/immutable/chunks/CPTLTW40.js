@@ -1,0 +1,1 @@
+import{x as n}from"./BdQXYw_T.js";const r={id:0,username:"",display_name:"",profileImage:null,role:"feeds",isAuthenticated:!1},t=n(r);function s(e){t.update(i=>({...i,...e}))}function u(e){return e==="admin"}export{t as c,u as i,s as u};
