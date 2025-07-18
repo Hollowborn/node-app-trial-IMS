@@ -23,8 +23,15 @@ default username and passwords:
   - p: hardware 
 
 ### Screenshot(s)
+
+
 <img width="1849" height="917" alt="image" src="https://github.com/user-attachments/assets/c8712261-4d33-4570-b844-9e05b7ead569" />
-<img width="1844" height="915" alt="image" src="https://github.com/user-attachments/assets/342f17fd-9352-4a57-9c17-25abc2e38ed3" />
+
+<img width="1851" height="919" alt="image" src="https://github.com/user-attachments/assets/8ebf0705-8773-4f84-9fb8-f6c9acffc565" />
+
 <img width="1854" height="921" alt="image" src="https://github.com/user-attachments/assets/dccbd834-f352-409c-9327-2b59626f49ba" />
+
+<img width="1866" height="932" alt="image" src="https://github.com/user-attachments/assets/494753a0-45ee-4d25-83c5-22aef7bcedcd" />
+
 
 
