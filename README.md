@@ -8,7 +8,7 @@ The target machine must have **[Node.js](https://nodejs.org/en/download)** insta
 > Click the link above to install and select the correct version for your current platform (Windows, Mac, Linux and etc.)
 
 ### Installation
-1. To view and try out this project, clone the repository using the 
+1. To view and try out this project, clone or download the repository.
 
 2. After cloning, access the source directory and open CMD or Terminal. You may open it by right-clicking the directory and clicking `Open with Terminal`.
 
