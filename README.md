@@ -1,4 +1,4 @@
-# inventory-management-system (node-server)
+# Inventory Management System (Node Server)
 
 ### Requirements
 The target machine must have **[Node.js](https://nodejs.org/en/download)** installed
