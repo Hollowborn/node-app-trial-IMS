@@ -10,7 +10,10 @@ The target machine must have **[Node.js](https://nodejs.org/en/download)** insta
 ### Installation
 1. To view and try out this project, clone or download the repository.
 
-2. After cloning, access the source directory and open CMD or Terminal. You may open it by right-clicking the directory and clicking `Open with Terminal`.
+2. After cloning, access the source directory and open CMD or Terminal. You may open it by right-clicking the directory and clicking `Open with Terminal`. Then run the code below to download the dependencies:
+ ```bash
+npm install
+```
 
 3. After downloading all the dependencies run the code below:
  ```bash
