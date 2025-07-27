@@ -1,14 +1,29 @@
-# inventory-management-system (node-server)
+# Inventory Management System (Node Server)
 
-### Requirements
+A very minimal Inventory Management System for office needs.
+
+
+### Prerequisite(s)
 The target machine must have **[Node.js](https://nodejs.org/en/download)** installed
-> Install the correct version for your current platform (Windows, Mac, Linux and etc.)
+> Click the link above to install and select the correct version for your current platform (Windows, Mac, Linux and etc.)
 
 ### Installation
-To install and view this project, you must first clone the repo.
-After that access the source directory and open CMD or Terminal. Enter ``` npm install ``` to download the required dependencies.
+1. To view and try out this project, clone or download the repository.
 
-After downloading all the dependencies run the code ``` npm start ``` to initiate and start the page. Then, open any browser and type ``` localhost:3000 ``` on the browser to access the web page. **OR** Simply open the ``start-app.bat`` on the project directory. It will automatically launch CMD and start the node server, and sequentially launch the app on your main browser.
+2. After cloning, access the source directory and open CMD or Terminal. You may open it by right-clicking the directory and clicking `Open with Terminal`. Then run the code below to download the dependencies:
+ ```bash
+npm install
+```
+
+3. After downloading all the dependencies run the code below:
+ ```bash
+npm start
+```
+to initiate and start the page. Then, open any browser and type ``` localhost:3000 ``` on the browser to access the web page.
+
+**OR**
+
+4. Simply open the ``start-app.bat`` on the project directory. It will automatically launch and start the node server, and sequentially launch the app on your main browser.
 
 ### Usage
 default username and passwords: 
