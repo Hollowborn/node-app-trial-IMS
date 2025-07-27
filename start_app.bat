@@ -11,7 +11,7 @@ start cmd.exe /k "npm start"
 REM Give the server some time to start up (e.g., 5-10 seconds)
 REM You might need to adjust this delay depending on your project's startup time
 echo Waiting for server to start...
-timeout /t 7 /nobreak
+timeout /t 3 /nobreak
 
 REM Open the specific URL in your default web browser
 REM IMPORTANT: Replace "http://localhost:5173/dashboard" with your desired URL
